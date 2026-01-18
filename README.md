@@ -5,7 +5,7 @@
 # Python Projects for Beginners 🐍 
 
 Welcome to my collection of Python projects!  
-This repository contains a many projects that i made while im learing python Each project has its own folder with the code.
+This repository contains many projects that i made while im learing python each project has its own folder.
 
 ---
 
@@ -75,12 +75,12 @@ This repository contains a many projects that i made while im learing python Eac
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/mehdi1-T/PythonBasicsProjects.git
 ```
 
 2. Try to build these projects on your own. 
 
 ---
 
-## and that's it 😊
-* NO PAIN💪 NO SUCCESS🚀*
+## And that's it 😊
+*NO PAIN💪 NO SUCCESS🚀*
