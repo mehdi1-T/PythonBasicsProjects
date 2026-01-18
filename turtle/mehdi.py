@@ -1,5 +1,4 @@
 import turtle
-import time
 
 screen = turtle.Screen()
 screen.bgcolor('black')
@@ -7,7 +6,7 @@ screen.title("A")
 screen.setup(width=1.0, height=1.0)
 
 t = turtle.Turtle()
-t.color('red')
+t.color('purple')
 t.pensize(20)
 t.speed(1)
 

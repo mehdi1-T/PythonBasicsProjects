@@ -1,2 +1,0 @@
-sentence = "Python is amazing"
-    
