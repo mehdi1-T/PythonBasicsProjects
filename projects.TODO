@@ -1,0 +1,15 @@
+## Mini Projects to Try
+
+**CSV Data Manager** - Create a program that lets users add, view, search, and delete records in a CSV file. Maybe track books you've read, expenses, or a simple contact list. This reinforces file I/O and working with the csv library.
+
+**API Weather Dashboard** - Use a free weather API like OpenWeatherMap to fetch and display weather data for cities. Practice making API requests, parsing JSON, and handling errors gracefully.
+
+**Image Filter Tool** - Use the Pillow library to apply filters to images (grayscale, blur, resize, rotate). Let users choose which filter to apply via command-line arguments. This gets you comfortable with external libraries.
+
+**Automated File Organizer** - Write a script that organizes files in a directory by extension (moving all .jpg to an "Images" folder, .pdf to "Documents", etc.). Good practice with file operations and the os/shutil modules.
+
+**Simple Web Scraper** - Use BeautifulSoup or requests to scrape basic data from a website (like headlines from a news site or product prices). Make sure to respect robots.txt and terms of service.
+
+**JSON Configuration Manager** - Build a program that saves user preferences to a JSON file and loads them on startup. Maybe a quiz game that remembers high scores or a to-do list that persists between runs.
+
+Start with whichever sounds most interesting to you, since you'll learn more when you're engaged with the project. Each of these can start simple and grow more complex as you add features. What kind of project appeals to you most?
