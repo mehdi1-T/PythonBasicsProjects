@@ -11,5 +11,3 @@
 **Simple Web Scraper** - Use BeautifulSoup or requests to scrape basic data from a website (like headlines from a news site or product prices). Make sure to respect robots.txt and terms of service.
 
 **JSON Configuration Manager** - Build a program that saves user preferences to a JSON file and loads them on startup. Maybe a quiz game that remembers high scores or a to-do list that persists between runs.
-
-Start with whichever sounds most interesting to you, since you'll learn more when you're engaged with the project. Each of these can start simple and grow more complex as you add features. What kind of project appeals to you most?
