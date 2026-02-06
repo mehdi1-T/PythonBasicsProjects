@@ -9,7 +9,7 @@ This repository contains many projects that i made while im learing python each 
 
 ---
 
-# Python resours that i learn it with
+# Python resours that i use to learn Python
 - [w3schools-python](https://www.w3schools.com/python/) I use this resource when I forget something and want a quick refresher.
 - [freeCodeCamp](https://www.freecodecamp.org/learn/python-v9/)This teaches me Python from scratch and offers a free certificate.
 - [NeetCode](https://neetcode.io/) Focused on data structures, algorithms, and OOP.
