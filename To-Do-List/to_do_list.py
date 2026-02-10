@@ -1,30 +1,34 @@
-tasks = []
+from colorama import Fore
+import colorama
 
+colorama.init(autoreset=True)
+
+tasks = []
 
 def addtask():
     task = input("Enter your task: ")
     tasks.append(task)
-    print("your task added sucesseful")
+    print(Fore.GREEN+"your task added sucesseful")
 
 def deletetask():
     task = input("Enter your task to delete it: ")
     if task in tasks:
         tasks.remove(task)
-        print("your task deleted sucessful")
+        print(Fore.GREEN+"your task deleted sucessful")
     else:
-        print("invalide input")
+        print(Fore.RED+"invalide input")
 
 def viewtasks():
-    print(f"here's your tasks : {tasks}")
-
-
+    print()
+    for i, task in enumerate(tasks, start=1):
+        print(f"taks number {i} : {tasks}")
 
 while True:
-    print("========= TO DO LIST APPLICATION ===========")
+    print(Fore.YELLOW+"========= TO DO LIST CLI APPLICATION ===========")
     print("1. add Task")
     print("2. Delete Task")
     print("3. View Tasks")
-    print("4. Quit")
+    print(Fore.RED+"4. Quit")
 
     select = input("Enter your choice: ")
 
@@ -38,6 +42,10 @@ while True:
         viewtasks()
 
     elif select == "4":
+        print("Exiting...")
         exit()
     else:
-        print("invalide input, please try again.")
+        print(Fore.RED+"invalide input, please try again.")
+
+    print()
+    print()
